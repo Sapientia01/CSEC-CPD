@@ -1,0 +1,1 @@
+{"name":"Local: Transpose","url":"e:\\CHALAs FILES\\Programming\\CODE\\CSEC_CPD\\LeetCode\\Transpose.py","tests":[{"id":1743616071537,"input":"[[1,2,3],[4,5,6],[7,8,9]]","output":"[[1,4,7],[2,5,8],[3,6,9]]"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CHALAs FILES\\Programming\\CODE\\CSEC_CPD\\LeetCode\\Transpose.py","group":"local","local":true}
