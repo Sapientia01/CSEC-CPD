@@ -42,17 +42,7 @@ for _ in range(int(input())):
 #     while right < n and left < n:
 
 
-    
 
-
-    
-    
-    
-    
-    
-    
-    
-    
 #     print(multiset)
 #     print(multiset_l)
 
